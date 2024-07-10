@@ -1,1 +1,1 @@
-carla api for duckietown.
+8 scenarios for duckietown
