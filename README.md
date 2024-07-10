@@ -1,1 +1,1 @@
-8 scenarios for duckietown.
+8 scenarios for duckietown on carla.
